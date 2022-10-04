@@ -1,6 +1,10 @@
-https://github.com/0FeDE/APLICANDO-BOOTSTRAP.git
+https://github.com/0FeDE/SEGUNDA-ENTREGA-DEL-PROYECTO-FINAL
 
-https://0fede.github.io/APLICANDO-BOOTSTRAP/
+https://0fede.github.io/SEGUNDA-ENTREGA-DEL-PROYECTO-FINAL/index.html
+
+https://0fede.github.io/SEGUNDA-ENTREGA-DEL-PROYECTO-FINAL/Noticias.html
+
+https://0fede.github.io/SEGUNDA-ENTREGA-DEL-PROYECTO-FINAL/Galeria.html
 
 
 
